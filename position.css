@@ -1,0 +1,42 @@
+.t {
+    width: 1500px;
+    height: 1100px;
+    border: 3px solid rgb(107, 88, 122);
+    background: rgb(178, 158, 194);
+    margin: 200px auto;
+    position: relative;
+}
+
+h1 {
+    padding-top: 200px;
+    padding-left: 70px;
+}
+    
+.images1 {
+    width: 400px;
+    height: 600px;
+    position: relative;
+    left: 70px;
+    top: 100px;
+}
+
+.images2 {
+    width: 400px;
+    height: 600px;
+    position: relative;
+    left: 140px;
+    top: 100px;
+}
+
+.images3 {
+    width: 400px;
+    height: 600px;
+    position: relative;
+    left: 210px;
+    top: 100px;
+}
+    
+h2 {
+    text-align: right;
+    margin: 150px 80px;
+}
